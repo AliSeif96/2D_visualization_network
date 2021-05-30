@@ -1,7 +1,8 @@
 # 2D visualization network
 ## two-dimensional visualization of the structure of a network (Directional and without direction)
 
-[![plotly](https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg)](https://plotly.com//)
+
+
 
 
 <p align="center">
@@ -74,3 +75,18 @@ draw(DiG, dpos, nx.in_degree_centrality(DiG), 'DiGraph Degree Centrality')
 
 
 ```
+
+
+
+
+<p align="center">
+ <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="250" height="250" >
+ </p>
+ 
+
+<p align="center">
+ <img src="https://networkx.org/_static/networkx_logo.svg" width="300" height="70">
+ </p>
+ 
+
+sorce: https://aksakalli.github.io/2017/07/17/network-centrality-measures-and-their-visualization.html
