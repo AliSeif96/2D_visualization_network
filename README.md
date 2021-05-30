@@ -2,6 +2,9 @@
 ## two-dimensional visualization of the structure of a network (Directional and without direction)
 
 
+I will be using NetworkX Python (2.4) library along with Matplotlib (3.2.2). (Updated on 01.06.2020)
+First, we are defining a simple method to draw the graph and the centrality metrics of nodes with a heat map.
+Zachary’s Karate Club graph is defined as the example graph G. It is basically a social network of members of an university karate club, where undirected edges connects people who interact outside the club.
 
 
 
