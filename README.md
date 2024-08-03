@@ -1,3 +1,28 @@
+# ER Network
+<p align="center">
+ <img src="https://github.com/DrAliSeif/2D_visualization_network/blob/main/ER%20Network/plot.png?raw=true" >
+ </p>
+ 
+# FC Network
+
+<p align="center">
+ <img src="https://github.com/DrAliSeif/2D_visualization_network/blob/main/Fully%20Connected%20Network/plot.png?raw=true" >
+ </p>
+
+# SF Network
+
+
+<p align="center">
+ <img src="https://github.com/DrAliSeif/2D_visualization_network/blob/main/SF%20Network/plot.png?raw=true" >
+ </p>
+ 
+# SW Network
+<p align="center">
+ <img src="https://github.com/DrAliSeif/2D_visualization_network/blob/main/SW%20Network/plot.png?raw=true" >
+ </p>
+ 
+
+
 # 2D visualization network
 ## two-dimensional visualization of the structure of a network (Directional and without direction)
 
